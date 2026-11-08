@@ -24,7 +24,7 @@ A fullscreen animated lyrics backdrop made with Python and Tkinter.
 3. Open PowerShell and go to the project folder:
 
    ```powershell
-   cd path\to\akoangbagyo
+   cd path\to\ako_ang_bagyo
    ```
 
 4. Confirm Python is installed:
@@ -65,18 +65,6 @@ If PowerShell does not run it directly, use:
 - Press `Esc` to close the animation window.
 - This project uses Tkinter for the visual effects and `pygame` for audio playback.
 
-## GitHub Upload
-
-After setup, you can push the project to GitHub using:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <your-repository-url>
-git push -u origin main
-```
 
 ## Troubleshooting
 
