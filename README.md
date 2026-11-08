@@ -21,10 +21,10 @@ A fullscreen animated lyrics backdrop made with Python and Tkinter.
 
 2. Make sure Python is added to PATH during installation.
 
-3. Open PowerShell in the project folder:
+3. Open PowerShell and go to the project folder:
 
    ```powershell
-   cd "C:\Users\Administrator\OneDrive\Desktop\akoangbagyo"
+   cd path\to\akoangbagyo
    ```
 
 4. Confirm Python is installed:
@@ -74,7 +74,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/JunryPacot/ako_ang_bagyo
+git remote add origin <your-repository-url>
 git push -u origin main
 ```
 
@@ -107,4 +107,4 @@ Make sure:
 
 ## License
 
-This project is for personal use and educational purposes unless otherwise specified.
+This project is provided for educational and personal use unless otherwise specified by the project owner.
