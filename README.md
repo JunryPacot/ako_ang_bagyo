@@ -74,7 +74,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin <your-repository-url>
+git remote add origin https://github.com/JunryPacot/ako_ang_bagyo
 git push -u origin main
 ```
 
